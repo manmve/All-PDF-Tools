@@ -1,0 +1,18 @@
+<!-- START OF CODE -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Image to PDF Converter</title>
+<style>
+/* CSS styles here */
+</style>
+</head>
+<body>
+<!-- Converter interface -->
+<script>
+// JavaScript code here
+</script>
+</body>
+</html>
+<!-- END OF CODE -->

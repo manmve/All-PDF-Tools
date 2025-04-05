@@ -1,0 +1,10 @@
+# Basic .gitignore for static web tools
+.DS_Store          # Mac OS metadata
+.thumbs.db         # Windows thumbnail cache
+.idea/             # JetBrains IDE files
+.vscode/           # VS Code settings
+node_modules/      # NPM packages (if ever used)
+.env               # Environment variables
+*.log              # Log files
+dist/              # Built files (if using bundlers)
+temp/              # Temporary files

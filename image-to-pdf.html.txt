@@ -8,7 +8,7 @@
 /* CSS styles here */
 </style>
 </head>
-<body>:<nav style="background: #2C3E50; padding: 15px; margin-bottom: 30px;">
+<body><nav style="background: #2C3E50; padding: 15px; margin-bottom: 30px;">
     <a href="/" style="color: white; text-decoration: none; margin-right: 20px;">Home</a>
     <a href="/image-to-pdf.html" style="color: white; text-decoration: none;">Converter</a>
 </nav>
